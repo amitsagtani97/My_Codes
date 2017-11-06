@@ -1,0 +1,1 @@
+a = int(input("Enter a number : "))if a > 100 :	print "No is greater than hundred."else :	print "The number is less than hundred."	
