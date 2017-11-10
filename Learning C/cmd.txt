@@ -1,0 +1,3 @@
+shut down== sudo shutdown -h
+restart== sudo shutdown -r
+
